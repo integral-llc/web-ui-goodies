@@ -1,0 +1,23 @@
+{
+  "name": "web-ui-goodies",
+  "version": "1.0.0",
+  "description": "Various Web UI nice things",
+  "main": "index.js",
+  "scripts": {
+    "animated-buttons": "http-server -c-1 ./animated-buttons",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/integral-llc/web-ui-goodies.git"
+  },
+  "author": "Eugeniu Rata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/integral-llc/web-ui-goodies/issues"
+  },
+  "homepage": "https://github.com/integral-llc/web-ui-goodies#readme",
+  "dependencies": {
+    "http-server": "^13.0.2"
+  }
+}
