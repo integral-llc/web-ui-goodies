@@ -4,6 +4,7 @@
   "description": "Various Web UI nice things",
   "main": "index.js",
   "scripts": {
+    "start": "http-server -c-1",
     "animated-buttons": "http-server -c-1 ./animated-buttons",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
